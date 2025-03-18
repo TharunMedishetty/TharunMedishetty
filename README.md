@@ -9,7 +9,7 @@ Passionate about transforming raw data into actionable insights, I specialize in
 - **Big Data & Cloud**: Azure Data Explorer (ADX), Databricks, Synapse Spark Pool  
 - **ETL & Data Processing**: PySpark, Azure Data Factory, Streaming Pipelines  
 - **Visualization & Analytics**: Power BI, Excel  
-- **Storage & Formats**: Azure Blob Storage, Avro  
+- **Storage & Formats**: Azure Delta Lake, Avro  
 
 ### 🌱 **Currently Learning & Exploring**  
 - Advanced **Data Engineering & ETL Optimization**  
