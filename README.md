@@ -1,4 +1,4 @@
-### 👋 Hi, I'm **Tharun Medishetty**!  
+### 👋 Hi, I'm **Tharun Medishetty.**!  
 
 🚀 **Data Engineer in the Making**  
 
