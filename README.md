@@ -6,7 +6,7 @@ Passionate about transforming raw data into actionable insights, I specialize in
 
 ### 🔧 **Tech Stack & Skills**  
 - **Languages & Querying**: Python, SQL, KQL, PySpark  
-- **Big Data & Cloud**: Azure Databricks, ADF, Azure Data Explorer (ADX), Synapse Spark Pool, Azure Event Hub 
+- **Big Data & Cloud**: Azure Databricks, ADF, Azure Data Explorer (ADX), Azure Event Hub 
 - **ETL & Data Processing**:  Azure Data Factory, Streaming Pipelines  
 - **Visualization & Analytics**: Power BI, Excel  
 - **Storage & Formats**: Azure Delta Lake(ADLS Gen2), Avro, parquet and Delta  
